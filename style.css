@@ -58,10 +58,10 @@ p{
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
 
-@media only screen and (max-height:700px) {
+@media only screen and (min-height:700px) {
     .container{
-        width:90%;
-        height:70%;
+        width:22%;
+        height:60%;
     
     }
     
